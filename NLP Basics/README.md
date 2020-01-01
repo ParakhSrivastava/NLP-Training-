@@ -4,3 +4,4 @@
 * **Stemming**
 * **Lemmatization**
 * **StopWords**
+* **Vocabualry and Matching**
