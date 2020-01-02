@@ -2,3 +2,4 @@
 * **Text Basics**
 * **NLP Basics**
 * **POS Tagging**
+* **Text Classification**
