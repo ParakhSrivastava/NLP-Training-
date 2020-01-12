@@ -3,3 +3,6 @@
 * **NLP Basics**
 * **POS Tagging**
 * **Text Classification**
+* **Semantic and Sentiment Analysis**
+* **Topic Modelling**
+* **Deep Learning**
